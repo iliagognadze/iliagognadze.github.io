@@ -1,0 +1,7 @@
+{
+  "leaf": false,
+  "children": [
+    { "text": "მთავარი", "iconCls": "x-fa fa-home", "xtype": "homeview", "leaf": true },
+    { "text": "განაცხადების სია", "iconCls": "x-fa fa-table", "xtype": "applicationsview","leaf": true }
+  ]
+}
